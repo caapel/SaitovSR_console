@@ -1,3 +1,5 @@
 *.pdf
 ##Saitov
 !SaitovSR.pdf
+[Bb]in/
+[Oo]bj/
