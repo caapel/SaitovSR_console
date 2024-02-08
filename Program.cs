@@ -12,5 +12,5 @@
         { 
             return Math.Pow(X, 2);
         }
-    }
+    }//new feature
 }
