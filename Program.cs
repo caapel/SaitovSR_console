@@ -14,3 +14,4 @@
         }
     }//new feature
 }//solve task2
+//solve task3
